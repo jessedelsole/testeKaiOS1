@@ -3,10 +3,10 @@
   "name": "KaiOS App",
   "description": "A file simple example manifest.webapp",
   "type": "web",
-  "launch_path": "./index.html",
+  "launch_path": "/index.html",
   "icons": {
-    "56": "./img.png",
-    "112": "./img.png"
+    "56": "/img.png",
+    "112": "/img.png"
   },
   "developer": {
     "name": "Your Name",
